@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Cottonpup Blog',
   author: 'Cottonpup',
   headerTitle: 'Cottonpup',
-  description: '조금씩이라도 끝까지 버텨낸 사람이 이긴다.',
+  description: '지고 싶지 않다면 이길 때까지 계속하면 된다.',
   language: 'en-us',
   theme: 'light', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
